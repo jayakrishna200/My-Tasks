@@ -1,0 +1,21 @@
+.tab-item {
+  margin: 10px;
+}
+.inactive-button {
+  color: #ffffff;
+  border: 1px solid #f3aa4e;
+  border-radius: 15px;
+  background-color: transparent;
+  padding: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.active-button {
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 15px;
+  background-color: #f3aa4e;
+  padding: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
